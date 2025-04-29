@@ -65,3 +65,7 @@ Contributions are welcome! Please follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes and open a pull request.
+
+Sample user to login:
+email: user@nextmail.com
+Password: 123456
